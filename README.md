@@ -20,7 +20,7 @@ _since i’m running ngrok on a macbook, i’ll be using mac’s terminal comman
 * go to terminal and run the command ```brew install ngrok```
 * connect to your account ```ngrok config add-authtoken $YOUR_TOKEN``` 
 
-**IMPORTANT:ollama’s default port is > _11434_**
+**IMPORTANT: ollama’s default port is > _11434_**
 * run the command ```ngrok http http://localhost:11434```
 
 once this command is running, the terminal will be updated with ngrok showing that you’re online and the link to your web interface. 
@@ -40,4 +40,4 @@ if you’re running into a 403 error on ngrok, please just run the following com
 
 now, if you prefer not install an app on your iPhone, you can use Open WebUI on your browser. 
 
-follow the tutorial on this [video](https://youtu.be/syR0fT0rkgY?si=eGWZtuS7LbJ7mDRh) by Decoder, he explains it very well on how to run Open WebUI with ollama on using **Docker** and **Ngrok**.
+follow the tutorial on this [video](https://youtu.be/syR0fT0rkgY?si=eGWZtuS7LbJ7mDRh) by Decoder, he explains it very well on how to run Open WebUI with ollama by using **Docker** and **Ngrok**.
