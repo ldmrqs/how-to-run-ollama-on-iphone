@@ -24,7 +24,6 @@ _since i’m running ngrok on a macbook, i’ll be using mac’s terminal comman
 * run the command ```ngrok http http://localhost:11434```
 
 once this command is running, the terminal will be updated with ngrok showing that you’re online and the link to your web interface. 
-
 copy the link on “Forwading”.
 
 ### 3. enchanted dev
@@ -39,6 +38,6 @@ if you’re running into a 403 error on ngrok, please just run the following com
 
 ## **OPEN WEBUI method**
 
-now, if you prefer not use installed an app on your iPhone, you can use Open WebUI on your browser. 
+now, if you prefer not install an app on your iPhone, you can use Open WebUI on your browser. 
 
 follow the tutorial on this [video](https://youtu.be/syR0fT0rkgY?si=eGWZtuS7LbJ7mDRh) by Decoder, he explains it very well on how to run Open WebUI with ollama on using **Docker** and **Ngrok**.
